@@ -1,0 +1,13 @@
+.main-body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calc-body{
+    border-color: black;
+    border-radius: 2px;
+    border-style:solid;
+    height: 100px;
+    width: 90px;
+}
